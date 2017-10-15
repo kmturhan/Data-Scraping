@@ -11,7 +11,7 @@
      Burada bir gecikme yaparsam belki page=2 'ye ulaşabilirim diye düşündüm. Async await gibi olaylar
      vardı. Denedim fakat başarılı olamadım.
 
-
+        *Kayıtlar klasöründe 3 adet resim koydum. Oradan da inceleyebilirsiniz.
 
      Url girişini bölümlere göre ele aldım. Örneğin;
      http://www.dr.com.tr/CokSatanlar/Kitap
