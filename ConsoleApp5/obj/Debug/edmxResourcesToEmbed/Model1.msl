@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="aaModelStoreContainer" CdmEntityContainer="aaEntities">
+    <EntitySetMapping Name="data">
+      <EntityTypeMapping TypeName="aaModel.data">
+        <MappingFragment StoreEntitySet="data">
+          <ScalarProperty Name="Ozet" ColumnName="Ozet" />
+          <ScalarProperty Name="Url" ColumnName="Url" />
+          <ScalarProperty Name="Fiyat" ColumnName="Fiyat" />
+          <ScalarProperty Name="Yayinevi" ColumnName="Yayinevi" />
+          <ScalarProperty Name="Yazar" ColumnName="Yazar" />
+          <ScalarProperty Name="uAdi" ColumnName="uAdi" />
+          <ScalarProperty Name="uNo" ColumnName="uNo" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
